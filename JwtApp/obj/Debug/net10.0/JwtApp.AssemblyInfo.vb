@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("JwtApp"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64590517b77f0a99b7022319b7c1bc37ba51a62e"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc66419e91f823a27edfdfc6929896c585bf57dc"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("JwtApp"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("JwtApp"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
