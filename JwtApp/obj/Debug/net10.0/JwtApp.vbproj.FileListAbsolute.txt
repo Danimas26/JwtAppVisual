@@ -1,0 +1,15 @@
+/workspaces/JwtAppVisual/JwtApp/bin/Debug/net10.0/JwtApp
+/workspaces/JwtAppVisual/JwtApp/bin/Debug/net10.0/JwtApp.deps.json
+/workspaces/JwtAppVisual/JwtApp/bin/Debug/net10.0/JwtApp.runtimeconfig.json
+/workspaces/JwtAppVisual/JwtApp/bin/Debug/net10.0/JwtApp.dll
+/workspaces/JwtAppVisual/JwtApp/bin/Debug/net10.0/JwtApp.pdb
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/JwtApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/JwtApp.AssemblyInfoInputs.cache
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/JwtApp.AssemblyInfo.vb
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/JwtApp.vbproj.CoreCompileInputs.cache
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/JwtApp.sourcelink.json
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/JwtApp.dll
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/refint/JwtApp.dll
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/JwtApp.pdb
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/JwtApp.genruntimeconfig.cache
+/workspaces/JwtAppVisual/JwtApp/obj/Debug/net10.0/ref/JwtApp.dll
