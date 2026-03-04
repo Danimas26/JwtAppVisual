@@ -15,6 +15,8 @@ Module Program
                 ' concatenar
                 Console.WriteLine(kvp.Key & ": " & kvp.Value.ToString())
             Next
+            Dim pais As String = IpService.DetectarPaisIp("191.103.73.226")
+Console.WriteLine(pais)
         Catch ex As Exception
             Console.WriteLine("ERROR: " & ex.Message)
         End Try

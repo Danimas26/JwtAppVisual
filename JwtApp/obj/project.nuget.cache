@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "i8mIE1QVpDI=",
+  "dgSpecHash": "f7m4rEVsMkI=",
   "success": true,
   "projectFilePath": "/workspaces/JwtAppVisual/JwtApp/JwtApp.vbproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/maxmind.db/4.3.4/maxmind.db.4.3.4.nupkg.sha512",
+    "/home/codespace/.nuget/packages/maxmind.geoip2/5.4.1/maxmind.geoip2.5.4.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.options/10.0.0/microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.primitives/10.0.0/microsoft.extensions.primitives.10.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

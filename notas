@@ -1,0 +1,56 @@
+# Crear proyecto dentro del repo
+dotnet new console -lang VB -n JwtApp
+
+# Ver estructura
+ls
+
+# Entrar al proyecto
+cd JwtApp
+
+# Verificar que existe el .vbproj
+ls
+
+# Ver estado de git
+git status
+
+# Ver branches
+git branch
+
+# Renombrar branch actual a main
+git branch -M main
+
+# Ver remotes configurados
+git remote -v
+
+# Agregar archivos al staging
+git add .
+
+# Crear commit
+git commit -m "Add JWT decoder"
+
+# Subir cambios al remoto
+git push
+
+# Crear nueva branch
+git checkout -b feature/test-branch
+
+# Verificar branch actual
+git branch
+
+# Agregar cambios en nueva branch
+git add .
+
+# Crear commit en la nueva branch
+git commit -m "Test branch changes"
+
+# Subir nueva branch
+git push -u origin feature/test-branch
+
+# Volver a main
+git checkout main
+
+# Traer cambios de main
+git pull
+
+# Ejecutar proyecto
+dotnet run
